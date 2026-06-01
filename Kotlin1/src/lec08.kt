@@ -9,6 +9,10 @@ fun main() {
     val array = arrayOf("a","b","c")
     printAll(*array)
 
+    person = Person("안녕")
+
+    println(person.name)
+
 }
 
 

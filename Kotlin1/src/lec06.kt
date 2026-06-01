@@ -12,5 +12,11 @@ fun main(){
     for (i in 1..3 step 2){
         println(i)
     }
+
+    for (i in 1..10 step 2){
+        println(i)
+    }
+
+
 }
 

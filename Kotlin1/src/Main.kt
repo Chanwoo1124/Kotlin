@@ -2,6 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
 
+
     val money = JavaMoney(1019L)
     val money2 = JavaMoney(110L)
 
